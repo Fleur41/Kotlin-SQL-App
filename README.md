@@ -1,3 +1,4 @@
+
 # SQL Basics
 
 This folder contains the source code for the SQL Basics codelab.
